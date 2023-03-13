@@ -1,0 +1,19 @@
+#div1{
+    width: 500px;
+    height: 400px;
+    background-color: red;
+    display: inline-block;
+}
+.yellow{
+  width: 150px;
+  height: 100px;
+  background-color: yellowgreen;
+  display: inline-block;
+}
+.div2{
+  width: 500px;
+  height: 400px;
+  background-color:gray;
+  display: inline-block;
+  
+}
