@@ -1,0 +1,19 @@
+#l1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.l2{
+    font-style: italic; 
+    border-bottom: 1px solid gray;
+}
+.years{
+    display: inline-block;
+}
+#l3{
+    width: 300px;
+    height: 100px;
+    display: inline-block;
+}
+#l4{
+   
+    display: inline-block;
+}
